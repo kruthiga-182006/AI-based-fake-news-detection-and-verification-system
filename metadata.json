@@ -1,0 +1,6 @@
+{
+  "name": "TruthGuard AI",
+  "description": "AI-based fake news detection and evidence verification platform powered by Groq AI (openai/gpt-oss-20b) and live browser search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
